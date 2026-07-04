@@ -20,9 +20,9 @@ models/trained_models/X_train.pkl
 models/trained_models/X_test.pkl
 models/trained_models/y_train.pkl
 models/trained_models/y_test.pkl
-# Large datasets
-data/raw/
-data/processed/
+data/raw/WELFake_Dataset.csv
+data/processed/preprocessed_news.csv
+data/processed/cleaned_news.csv
 
 # Transformer models
 models/bert-base-uncased/
